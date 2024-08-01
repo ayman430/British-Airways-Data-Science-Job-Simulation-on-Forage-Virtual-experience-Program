@@ -26,44 +26,36 @@
 4. Make EDA to get first look about data
 5. Analysis Quetions
 6. Get insights    
-*     68.9%! [image](https://github.com/user-attachments/assets/d7d88ce5-bbc7-471d-9fcf-e55fd508439f)
-% Of Customers Not Recommended
-* ![download](https://github.com/lotaa/British-Airways-Data-Science-virtual-experience-programme/assets/49419507/6b1d5e73-17b6-4de7-9555-f4748d56031e)
+*     68.9% Of Customers Not Recommended
+* ![recommended](https://github.com/user-attachments/assets/77326b36-658d-4490-907e-37f3b2b63f49)
             
-*     Most Classes Is Economy Class
-* ![download](https://github.com/lotaa/British-Airways-Data-Science-virtual-experience-programme/assets/49419507/09b114e9-164f-4079-be19-09da845cd355)
+*     31.5% of customers Rate 1![image](https://github.com/user-attachments/assets/f13f36c3-7849-4bff-a9f5-1083745cc407)
+* ![Rate](https://github.com/user-attachments/assets/f1eae5a3-1cd8-4086-aa3c-d0d36442c55c)
 
-*       Most Reviews Are Negative by 86.7%
-* ![download](https://github.com/lotaa/British-Airways-Data-Science-virtual-experience-programme/assets/49419507/1abec2b8-735c-49ae-aa7e-a6a93e046c7f)
+*       Most Reviews Are Negative by 90%
+* ![text](https://github.com/user-attachments/assets/b5628a73-7470-44f3-939a-4245be912686)
 
 
 *       Most Frequency Of Words Of Negative Reviews
-* ![download](https://github.com/lotaa/British-Airways-Data-Science-virtual-experience-programme/assets/49419507/c1c96e40-08e8-45c5-97ec-1b6e1f989d3d)
-
+*  ![neg](https://github.com/user-attachments/assets/968df50a-bd92-47aa-b8c2-a130b9378a09)
 
 *       Most Frequency Of Words Of Positive Reviews
-*  ![download](https://github.com/lotaa/British-Airways-Data-Science-virtual-experience-programme/assets/49419507/9991b364-30dc-4786-8411-357904889f49)
+*  ![pos](https://github.com/user-attachments/assets/4045c1bd-8e94-49f3-b91d-85219c9125a0)
 
 
 ## Pipline For Task 2:
 1. Import required library
 2. Load DataSet
-3. Make EDA
-   *  ![download](https://github.com/lotaa/British-Airways-Data-Science-virtual-experience-programme/assets/49419507/5eef904e-65c9-4dbc-8c5f-797a13d58e3f)
-   *       get data imbalanced
-   * ![download](https://github.com/lotaa/British-Airways-Data-Science-virtual-experience-programme/assets/49419507/056236e4-c65a-44cf-b3b1-3f3cc783c138)
-
-   *       length of stay has a lot of 
-      
+3. Make EDA   
 5. Make Preprocess on dataset
 6. Make Model
 7. Make Predictions
 
 
 9. Evaluate Model
-*   ![download](https://github.com/lotaa/British-Airways-Data-Science-virtual-experience-programme/assets/49419507/4c5755c4-2424-40f0-8586-48bb63792b4e)
+*   ![output](https://github.com/user-attachments/assets/7a965d85-9137-4b32-af80-8032e397893f)
 
 
 
 10. Feature importance
-*   ![download](https://github.com/lotaa/British-Airways-Data-Science-virtual-experience-programme/assets/49419507/572fd9e3-cab9-46e2-984a-f208b5cf278e)
+*  ![features](https://github.com/user-attachments/assets/4f05d48a-586e-4c75-8364-574563edbebc)
